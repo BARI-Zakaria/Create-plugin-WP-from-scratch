@@ -1,8 +1,8 @@
 <?php
 
-namespace Pentiminax\DuplicatePost;
+namespace Post\DuplicatePost;
 
-use Pentiminax\DuplicatePost\Controller\AdminController;
+use Post\DuplicatePost\Controller\AdminController;
 
 class DupliocatePostPlugin
 {
